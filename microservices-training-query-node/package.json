@@ -1,0 +1,14 @@
+{
+  "name": "microservices-training-query",
+  "version": "0.0.1",
+  "description": "Express app used as part of the Microservice Training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "query"
+  ],
+  "author": "Alina",
+  "license": "ISC"
+}
